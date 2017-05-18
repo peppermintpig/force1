@@ -333,7 +333,7 @@
     <fields>
         <fullName>z_External_ID__c</fullName>
         <externalId>true</externalId>
-        <label>External ID</label>
+        <label>External Identifier</label>
         <length>64</length>
         <required>true</required>
         <trackFeedHistory>false</trackFeedHistory>
